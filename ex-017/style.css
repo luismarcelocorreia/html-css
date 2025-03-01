@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to right, #0fc242, #0fbf43, #14ac3d, #21b237, #63c469);
+    font: normal 16px Arial, Verdana,serif;
+    text-align: left;
+}
+
+h1{
+    color:rgb(11, 122, 9) ;
+    text-align: left;
+}
+
+h1#principal{
+    color: aliceblue;
+    background-color: green;
+    text-align: center;
+}
+
+h2{
+    color:rgb(8, 59, 7) ;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
